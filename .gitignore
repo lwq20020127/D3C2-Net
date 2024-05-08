@@ -1,0 +1,6 @@
+*.code-workspace
+**/__pycache__/
+.vscode
+train
+log
+wandb
