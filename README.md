@@ -1,6 +1,6 @@
 
 <div align="center">
-<h3>D3C2-Net: Dual-Domain Deep Convolutional Coding Network for Compressive Sensing
+<h3>(TCSVT 2024) D3C2-Net: Dual-Domain Deep Convolutional Coding Network for Compressive Sensing
 </h3>
 
 
