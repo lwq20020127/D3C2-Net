@@ -50,8 +50,11 @@ If you find the code helpful in your research or work, please cite the following
 @article{li2024d3c2,
   title={D3C2-Net: Dual-Domain Deep Convolutional Coding Network for Compressive Sensing},
   author={Weiqi, Li and Bin, Chen and Shuai, Liu and Shijie, Zhao and Bowen, Du and Yongbing, Zhang and Jian, Zhang},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)},
   year={2024},
+  volume={34},
+  number={10},
+  pages={9341-9355},
   publisher={IEEE}
 }
 ```
